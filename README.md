@@ -8,3 +8,5 @@ Data Modeling: Designed relationships between data tables to create a seamless a
 Dashboard Visualizations: Built various charts and KPIs to display sales trends, revenue, and other critical metrics.
 Dynamic Interactivity: Added slicers and interactive visuals for user-friendly exploration of data insights.
 Advanced Design Techniques: Applied best practices to enhance usability and visual appeal.
+
+![image alt](https://github.com/Sudha-Deepthi-Sree/BMW-Sales-Dashboard/blob/main/image.png?raw=true)
